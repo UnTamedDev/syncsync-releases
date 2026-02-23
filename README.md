@@ -61,7 +61,7 @@ SyncSync is the most powerful MCP (Model Context Protocol) server available - pr
 ## 💬 Support
 
 - **Website**: [weird-works.com](https://weird-works.com)
-- **Email**: support@weird-works.com
+- **Email**: weirdworkslabs@gmail.com
 - **Discord**: [Join our community](https://discord.gg/syncsync)
 
 ## 📋 System Requirements
